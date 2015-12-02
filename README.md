@@ -39,12 +39,8 @@ The following generates the same payload as above.
 
 ## Installation
 
-    npm install asn1
+    npm install devintent-node-asn1
 
 ## License
 
 MIT.
-
-## Bugs
-
-See <https://github.com/mcavage/node-asn1/issues>.
